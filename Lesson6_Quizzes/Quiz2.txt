@@ -8,8 +8,10 @@ Questions:
 
 1.  Name two methods you can use to add a node to the DOM tree, and explain the difference between them.
 
-
+The two ways to do this are either by using the getElementById Method or by using the innerHTML Property. The first way is more common, however the second way is easier. one is a method and the other is a property. 
 
 
 
 2.  List the six main objects that make up the browser object model. 
+
+Window, history, navigation, screen, document, location.
